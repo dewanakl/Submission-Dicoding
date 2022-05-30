@@ -7,17 +7,9 @@
     "start": "nodemon ./src/server.js",
     "lint": "eslint ./src"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dewanakl/Submission-Dicoding.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dewanakl/Submission-Dicoding/issues"
-  },
-  "homepage": "https://github.com/dewanakl/Submission-Dicoding#readme",
   "dependencies": {
     "@hapi/hapi": "^20.2.2",
     "nanoid": "^3.3.4"
